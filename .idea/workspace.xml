@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1a6424a-8e82-42dc-90da-02c8de8b92ba" name="Default Changelist" comment="" />
+    <list default="true" id="c7a786f5-f557-4ba9-ae30-5e9c404e978c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/tests/files/ratings.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/tests/files/ratings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/tests/files/top250_movies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/tests/files/years.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/tests/test_task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW5/tests/test_task4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,13 +65,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="129" y="58" key="MergeDialog" timestamp="1589802545656">
+    <state x="129" y="58" key="MergeDialog" timestamp="1589802786599">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="129" y="58" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1589802545656" />
-    <state x="395" y="99" key="MultipleFileMergeDialog" timestamp="1589802545664">
+    <state x="129" y="58" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1589802786599" />
+    <state x="395" y="99" key="MultipleFileMergeDialog" timestamp="1589802786604">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="395" y="99" key="MultipleFileMergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1589802545664" />
+    <state x="395" y="99" key="MultipleFileMergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1589802786604" />
+    <state x="484" y="175" key="git4idea.merge.GitMergeDialog" timestamp="1589802736549">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="484" y="175" key="git4idea.merge.GitMergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1589802736549" />
   </component>
 </project>
